@@ -36,7 +36,7 @@ Gem::Specification.new do |s|
   ]
   s.homepage = "http://github.com/SquareSquash/rails"
   s.licenses = ["Apache 2.0"]
-  s.rubygems_version = "2.2.2"
+  s.rubygems_version = "2.2.2.1"
   s.summary = "Squash client for Ruby on Rails projects"
 
   if s.respond_to? :specification_version then
